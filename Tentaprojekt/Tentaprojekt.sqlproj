@@ -58,4 +58,14 @@
   <ItemGroup>
     <Folder Include="Properties" />
   </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ÅterlämningDatum.cs" />
+    <Compile Include="ÅterlämningMedlem.cs" />
+    <Compile Include="antalFilmKategori.cs" />
+  </ItemGroup>
 </Project>
